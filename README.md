@@ -14,6 +14,15 @@ A CLI tool to take web screenshots with ease.
 
 ![demo](/doc/2024-08-19-17-21-v2.dairew.my.id-1080x1080.png)
 
+# Installation
+
+```bash
+g clone https://github.com/dai-re/takewebs
+
+npm i
+
+node .
+```
 
 ## License
 
