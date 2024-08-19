@@ -1,0 +1,27 @@
+{
+  "name": "takewebs",
+  "version": "1.0.0",
+  "description": "A CLI to take web screenshots using Pageres",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "takeweb": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai-re/takeweb.git"
+  },
+  "author": "dai-re",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dai-re/takeweb/issues"
+  },
+  "homepage": "https://github.com/dai-re/takeweb#readme",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "pageres": "^8.1.0"
+  }
+}
