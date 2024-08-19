@@ -1,5 +1,4 @@
-#!/usr/bin/env
-
+#!/usr/bin/env node
 
 import { format } from "date-fns";
 import Pageres from "pageres";
@@ -49,4 +48,3 @@ const main = async () => {
 };
 
 main();
-
