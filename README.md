@@ -10,6 +10,11 @@ A CLI tool to take web screenshots with ease.
 - Save screenshots in various formats (e.g., PNG, JPEG).
 - Simple and easy-to-use command-line interface.
 
+![demo](/doc/Screenshot_20240819_172214.png)
+
+![demo](/doc/2024-08-19-17-21-v2.dairew.my.id-1080x1080.png)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
